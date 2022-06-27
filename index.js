@@ -32,5 +32,3 @@ const server = http.createServer((req, res) => {
 const PORT = 8080;
 
 server.listen(PORT, () => console.log(`Server is running on port ${PORT}`))
-
-// try to create links for about & contact page, each page should link back to the home page
