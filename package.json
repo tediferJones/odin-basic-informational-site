@@ -4,5 +4,20 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "name": "odin-basic-informational-site",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tediferJones/odin-basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tediferJones/odin-basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/tediferJones/odin-basic-informational-site#readme"
 }
